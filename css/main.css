@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+html {
+    scroll-behavior: smooth;
+    font-size: 10px;
+}
+body {
+    display: flex;
+    flex-flow: column;
+    font: 1em Arial, Helvetica, sans-serif;
+}
+main {
+    position: relative;
+    flex: 1;
+    margin-top: 94.94px;
+}
+a {
+    text-decoration: none;
+}
+ul li, ol li {
+    list-style-type: none;
+}
+button {
+    border: none;
+}
+
+
+/* Media queries */
+@media only screen and (min-width: 576px) {
+
+}
+
+@media only screen and (min-width: 768px) {
+    
+}
+
+@media only screen and (min-width: 992px) {
+    
+}
+
+@media only screen and (min-width: 1200px) {
+    
+}
